@@ -101,7 +101,10 @@
         <a href="https://www.linkedin.com/in/laura-mosquera-jimenez/" target="_blank">
             <img height="28" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
         </a>
-    </p>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 </body>
 </html>
