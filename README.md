@@ -12,7 +12,7 @@
             <img 
                 src="https://media.giphy.com/media/GNAJIWQc1OVA3quaQw/giphy.gif"
                 alt="Laura Mosquera - Data Science"
-                width="48%">
+                width="55%">
         </div>
     </div>
     <div align="center">
